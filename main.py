@@ -19,4 +19,4 @@ qr.make(fit=True)
 img = qr.make_image(fill="black", back_color="white")
 
 # ذخیره تصویر
-img.save("qrcode-j.png")
+img.save("qrcode.png")
